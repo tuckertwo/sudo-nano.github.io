@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Artificing with your DM in DnD 5e"
-date: 2023-02-08
-hidden: true
+date: 2023-06-19
+hidden: false
+tags: dnd ttrpg
 ---
 
 In DnD 5e, Artificer has one of the loosest job descriptions of any class. Depending on both your playstyle and your DM's, this can lend incredible flexibility or cause a decent amount of strife. To ensure things go as smoothly as they can, there are a few things you should keep in mind. 
