@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Haha Jonathan, I am a zip bomb! (I have no idea what I'm doing)
+This blog is a work in progress by sudo-nano. You can find me as TheMagicalC on most platforms. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I edit in Sublime Text and take notes in Logseq. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hosted using 
+[jekyll](https://github.com/jekyll/jekyll) 
+with the [minima](https://github.com/jekyll/minima) theme.
 
 
-[jekyll-organization]: https://github.com/jekyll
