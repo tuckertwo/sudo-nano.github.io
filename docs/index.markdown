@@ -5,4 +5,4 @@ title: Experiments and Explorations with TheMagicalC
 layout: home
 ---
 
-Hey, thanks for visiting! You may know me as TheMagicalC or cwg1231 on most platforms, or sudo-nano on GitHub. This is where I organize my internet explorations and experiments, in the hope that it will improve the internet just a little bit. 
+Hey, thanks for visiting! You may know me as TheMagicalC or cwg1231 on most platforms, or sudo-nano on GitHub. This is where I organize my thoughts, explorations and experiments, in the hope that it will improve the internet just a little bit. 
