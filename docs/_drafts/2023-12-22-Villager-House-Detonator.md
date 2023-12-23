@@ -16,13 +16,16 @@ A few years ago, I worked with some friends on a small Minecraft SMP server to t
 
 The design is relatively simple, but was refined through many trials. The four pieces of TNT on the bottom make up the primary charge, which blows up the bottom of the house. The single piece of TNT on the top is the secondary charge, which is launched up by the primary charge, and destroys the top of the house. The secondary charge is lit 4 ticks after the primary charge. 
 
+![Excalidraw diagram of villager house detonator]({{site.url}}/assets/villager_house_exploder/design_excalidraw.png)
+*Figure 3: Diagram drawn in Excalidraw demonstrating the action of the detonator.*
+
 As demonstrated below, this design provides a minor improvement over a standard untimed TNT charge. 
 
 ![House detonated with a standard untimed charge]({{site.url}}/assets/villager_house_exploder/exploded_house_regular.png)
-*Figure 3: A small villager house detonated using an untimed charge of 6 pieces of TNT. The roof is relatively intact.*
+*Figure 4: A small villager house detonated using an untimed charge of 6 pieces of TNT. The roof is relatively intact.*
 
 ![House detonated with a precision timed charge]({{site.url}}/assets/villager_house_exploder/exploded_house_precision.png)
-*Figure 4: A small villager house detonated using the timed precision charge detailed in this article with only 5 pieces of TNT. The roof is less intact than the previous image.*
+*Figure 5: A small villager house detonated using the timed precision charge detailed in this article with only 5 pieces of TNT. The roof is less intact than the previous image.*
 
 Further research is necessary to create a more modular or scalable version of this design, to create one that more thoroughly destroys the roof, and to create one capable of destroying larger sizes of villager house. 
 
