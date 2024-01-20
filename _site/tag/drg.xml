@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Your Title - drg</title>
+ <link href="http://example.com/tag/drg.xml" rel="self"/>
+ <link href="http://example.com/tag/drg.html"/>
+ <updated>2024-01-19T15:32:50-08:00</updated>
+ <id>http://example.com/tag/drg.html</id>
+ <author>
+   <name>Author Here</name>
+ </author>
+ 
+ <entry>
+   <title>List of Deep Rock Galactic Incidents</title>
+   <link href="http://example.com/2022/05/24/DRG_Incidents.html"/>
+   <updated>2022-05-24T19:00:00-07:00</updated>
+   <id>http://example.com/2022/05/24/DRG_Incidents</id>
+   <content type="html">&lt;p&gt;Working with the Deep Rock Galactic mining company is relatively safe. [Citation Needed] Here’s a list of the times it wasn’t.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Karl’s Demise&lt;/strong&gt; - [INFORMATION REDACTED]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The Adeptus Custodes Incident&lt;/strong&gt; - One salvage team was so intent on learning about the Adeptus Custodes that they forgot about the extraction timer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sandblasted Hell Extraction&lt;/strong&gt; - Mission Control made a teeny weeny, itsy bitsy, 35% accuracy error when placing the drop pod. Long story short, it ended up perched on a sky-high ledge, and the team was forced to climb from the depths of the sandblasted corridors to make it to LZ. They made a heroic effort, but were unsuccessful.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The 8-dwarf industrial sabotage&lt;/strong&gt; - 8 brave dwarves embarked upon one of our most dangerous industrial sabotage missions. Unfortunately, the rival technology detected the unusual number of dwarves, and sent reinforcements. The mission was absolute chaos, the team ran out of nitra, and ultimately did not survive. This is why we only send 4 dwarves at a time now.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+</feed>
