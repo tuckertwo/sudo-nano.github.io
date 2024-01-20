@@ -31,10 +31,13 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+#        uses: actions/jekyll-build-pages@v1
+        uses: limjh16/jekyll-action-ts@v2
         with:
-          source: /docs/
-          destination: ./_site
+#          source: /docs/
+#          destination: ./_site
+        enable_cache: true
+        jekyll_src: /docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
