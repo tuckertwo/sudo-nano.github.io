@@ -36,8 +36,8 @@ jobs:
         with:
 #          source: /docs/
 #          destination: ./_site
-        enable_cache: true
-        jekyll_src: /docs/
+          enable_cache: true
+          jekyll_src: /docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
