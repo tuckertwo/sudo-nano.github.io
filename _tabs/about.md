@@ -21,6 +21,6 @@ In Dungeons and Dragons 5th edition (the most recent at the time of writing), th
 > 
 > You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
-Notably, this ability doesn't specify that the modifier must be positive, or that the creature must be willing. If you get another spellcaster to cast **feeblemind** on your artificer, reducing their intelligence to 1 and their intelligence modifier to -5. This allows the artificer to subtract 5 from an ability check or saving throw of anyone they can see that's within 30 feet, even an enemy. 
+Notably, this ability doesn't specify that the modifier must be positive, or that the creature must be willing. If you get another spellcaster to cast **feeblemind** on your artificer, their intelligence is reduced to 1, and their intelligence modifier to -5. This allows the artificer to subtract 5 from an ability check or saving throw of anyone they can see that's within 30 feet, even an enemy. 
 
 As with flash of genius, sometimes you have to come up with solutions under pressure. Sometimes those solutions are terrible, but hilarious, like the above strategy. Hence, flash of stupid. 
