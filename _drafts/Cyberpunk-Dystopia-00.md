@@ -5,4 +5,7 @@ date: 2024-01-21 16:00:00 -0700
 tags: politics right-to-repair cyberpunk
 --- 
 
-asdf
+This post is targeted towards a general audience. No prior knowledge is required. 
+
+
+Cyberpunk 
