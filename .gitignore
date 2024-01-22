@@ -19,3 +19,7 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Mac moment 
+.DS_Store
+*/.DS_Store
