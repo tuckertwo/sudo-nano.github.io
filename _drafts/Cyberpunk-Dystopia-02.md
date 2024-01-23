@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Batteries are maintenance items - How to Not Live in a Cyberpunk Dystopia #01"
-date: 2024-01-21 16:00:00 -0700
+title: "Critical Systems Must Be Open Source - How to Not Live in a Cyberpunk Dystopia #02"
+date: 2024-01-24 16:00:00 -0700
 tags: politics right-to-repair cyberpunk
 --- 
 
