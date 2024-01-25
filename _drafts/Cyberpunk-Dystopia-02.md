@@ -6,7 +6,6 @@ tags: politics right-to-repair cyberpunk
 categories: drafts
 hidden: true
 --- 
-
-This post is targeted towards a general audience. No prior knowledge is required. 
+This is the third post in a series about what we can do to make real life less of a cyberpunk dystopia. The first post is here (INSERT LINK WHEN FIRST POST IS PUBLISHED). This post is targeted towards a general audience. No prior knowledge is required. 
 
 

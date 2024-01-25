@@ -6,8 +6,7 @@ tags: politics right-to-repair cyberpunk intellectual-property
 categories: drafts
 hidden: true
 --- 
-
-This post is targeted towards a general audience. No prior knowledge is required. This is the first post in a series about what we can do to make real life less of a cyberpunk dystopia. 
+This is the first post in a series about what we can do to make real life less of a cyberpunk dystopia. This post is targeted towards a general audience. No prior knowledge is required. 
 
 Cyberpunk, in this context, refers to a setting in which there's high tech (that's the cyber part) and the tech is used as a means of exerting power over disadvantaged people. Technology is an indiscriminate force multiplier. Corporations, unchained from regulations by either their absence or their lack of enforcement, fully utilize this to expand their influence, often weakening or supplanting nation-state governments. This weakening of nation-state governments is not a new idea; it's a reflection of the effect that accumulation of wealth and economic power has had on democratic governments in recent history.
 <!--It's been done by economic means since there's been accumulation of wealth, and industrialization only made it easier. -->
