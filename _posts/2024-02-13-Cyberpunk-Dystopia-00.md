@@ -17,6 +17,7 @@ The thing that makes it cyberpunk is the further acceleration of this practice b
 
 The indiscriminate nature of technology also lends it to being the tool of the people. (That's the punk part.) The only computer we know how to make is what we call a Turing machine, a computer that can run any program. Software and hardware can be designed to make it arbitrarily difficult to run some types of programs, but you can't make it impossible for a computer to run certain types of programs under any circumstances. This means that no matter how hard corporate engineers try to make it so that you can only use their proprietary software, or their compatible proprietary hardware, technology is always hackable. 
 
+
 ## What is Hacking?
 
 Hacking in this case is not just the act of compromising someone else's computer. In the context of this article series, and most often as used by hackers, hacking means modifying technology to function in a way not intended by its creators. It can be as complicated as replacing the firmware on your printer, or as simple as using a universal remote to emulate the remote that came with your TV. **Hacking is modification beyond the intended use of an object.** Hacking is *freedom*, because the alternative is criminalizing modification of hardware that you own. Unfortunately, that criminalization is already here. Terms of service are allowed to ban reverse engineering of hardware you've purchased, legally barring you from understanding the device you hold in your hands. The [Digital Millennium Copyright Act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) (DMCA) criminalizes circumventing Digital Rights Management (DRM) software, which is any software that controls access to copyrighted works. As an example, since Blu-Ray discs are weakly encrypted, ripping your legally purchased disks to produce a video file to watch on your laptop is illegal. The DMCA doesn't even include a portion of the law specifying that you must intend to circumvent DRM, so accidentally doing so can still land you a fine between $2,500 and $25,000. The law says that the court *may* reduce the fine if you were unaware it was a violation, but that's solely up to the court's discretion.
@@ -46,5 +47,6 @@ That was a lot of information. To recap, I will be working with these definition
 
 
 Footnotes:
+
 [^1]: Court precedent is when the court has decided a similar issue in a previous case, and uses that decision to inform the current case. 
 [^2]: [Google v. Oracle (2021)](https://en.wikipedia.org/wiki/Google_LLC_v._Oracle_America%2C_Inc.) seems to indicate that judges are getting wise to the technology glitter-dust technique. In short, Google copied Oracle's code interface (function names, not function implementation) and Oracle claimed that this was infringing. 
