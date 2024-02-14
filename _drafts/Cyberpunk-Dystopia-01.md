@@ -26,10 +26,13 @@ parts are intended to be replaced by a user or mechanic, many portable electroni
 are designed so that the battery is unserviceable. 
 Most often seen in phones, e-readers, wireless headphones, and thin laptops, it's 
 usually the case that either the device is not meant to be opened for any maintenance 
-at all, or the battery is not installed in such a way that it can be removed safely. 
+at all, and/or the battery is installed in such a way that removing it could be unsafe.
+This wasteful design is similar in principle to throwing out your car instead of
+changing its oil, because the manufacturer has made it so that you must cut into
+your engine to change the oil.
 
-This is usually done in service of the aforementioned planned obsolescence, so that 
-manufacturers can force consumers to buy a new device at the cost of increased electronic 
+Their incentive to do this is the aforementioned planned obsolescence, where manufacturers 
+force consumers to prematurely buy a new device at the cost of increased electronic 
 waste (sometimes abbreviated e-waste). Besides the obvious detriment of manufacturers 
 wringing more money out of consumers for shorter device lifetimes, e-waste is more 
 harmful to people and the environment than traditional garbage. 
@@ -39,8 +42,25 @@ harmful to people and the environment than traditional garbage.
 > disposal of e-waste may involve significant risk to the health of workers and 
 > their communities.[^2] ([Wikipedia][https://en.wikipedia.org/wiki/Electronic_waste#Definition])
 
+Making batteries easily replaceable to mitigate these issues is quite easy. 
+All a manufacturer has to do is
+1. Connect the battery with a connector rather than soldering it directly to the board
+2. Secure the battery in a way allowing removal without damaging the battery (as damaged batteries can start a fire)
+3. Construct the phone so that the battery can be accessed easily
+
+In fact, this used to be the standard for smartphones. Older Samsung flagship phones 
+such as the Samsung Galaxy 5 had removable batteries. In the 10 years since its 
+release, manufacturers have realized that charging consumers to service their batteries 
+is much more profitable. 
+
+To explore just how possible it is to have replaceable batteries in consumer electronics, 
+we'll cover the basics of how batteries work and what kinds are in your devices. 
 
 ## Battery Basics
+
+### How does a battery work? 
+Batteries, at their most basic, perform a chemical reaction to generate electricity. 
+What this reaction is, as well as whether it's reversible, depend on the type of battery. 
 
 
 Footnotes:
