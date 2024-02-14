@@ -2,10 +2,9 @@
 layout: post
 title: "What is a Cyberpunk Dystopia? - How to Not Live in a Cyberpunk Dystopia #00"
 date: 2024-01-21 16:00:00 -0700
-tags: politics right-to-repair cyberpunk intellectual-property
-category: drafts 
+tags: politics right-to-repair cyberpunk intellectual-property 
 category: Cyberpunk Dystopia
-hidden: true
+hidden: false
 --- 
 
 ## What is Cyberpunk?
