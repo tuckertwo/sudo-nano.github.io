@@ -3,7 +3,8 @@ layout: post
 title: "Batteries are maintenance items - How to Not Live in a Cyberpunk Dystopia #01"
 date: 2024-01-21 16:00:00 -0700
 tags: politics right-to-repair cyberpunk electronics
-categories: drafts
+category: drafts
+category: Cyberpunk Dystopia
 hidden: true
 --- 
 
@@ -64,12 +65,15 @@ What this reaction is, as well as whether it's reversible, depend on the type of
 Nearly all electronics with rechargeable batteries use lithium-ion batteries, which
 utilize dissolved lithium to perform a reversible reaction to store or release charge. 
 
-Lithium batteries are notable for their high power density (small batteries can 
-store lots of energy) and high discharge rate (batteries can release their power 
-quickly). Usually, a battery is optimized for one of the above, not both. 
+Lithium batteries are notable for their high power density, meaning smaller batteries can 
+store lots of energy, and high discharge rate, meaning they can release their power 
+quickly. Usually, a battery is optimized for one of the above, not both. 
 Lithium batteries can also be dangerous because their electrolyte, the solution
 in which the metal is dissolved, is flammable. This means damaged lithium batteries
-can catch fire and explode more violently than something like a disposable AA battery.
+can catch fire and explode violently, something that other types of batteries (like 
+disposable alkaline AA batteries or lead-acid car batteries) don't do. 
+
+
 
 
 Footnotes:
