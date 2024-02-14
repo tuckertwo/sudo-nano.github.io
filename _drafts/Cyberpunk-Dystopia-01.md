@@ -61,6 +61,15 @@ we'll cover the basics of how batteries work and what kinds are in your devices.
 ### How does a battery work? 
 Batteries, at their most basic, perform a chemical reaction to generate electricity. 
 What this reaction is, as well as whether it's reversible, depend on the type of battery. 
+Nearly all electronics with rechargeable batteries use lithium-ion batteries, which
+utilize dissolved lithium to perform a reversible reaction to store or release charge. 
+
+Lithium batteries are notable for their high power density (small batteries can 
+store lots of energy) and high discharge rate (batteries can release their power 
+quickly). Usually, a battery is optimized for one of the above, not both. 
+Lithium batteries can also be dangerous because their electrolyte, the solution
+in which the metal is dissolved, is flammable. This means damaged lithium batteries
+can catch fire and explode more violently than something like a disposable AA battery.
 
 
 Footnotes:
