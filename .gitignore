@@ -18,7 +18,8 @@ package-lock.json
 .idea
 
 # Misc
-assets/js/dist
+# Commenting this out from the gitignore is required to make table of contents work correctly 
+#assets/js/dist
 
 # Mac moment 
 .DS_Store
