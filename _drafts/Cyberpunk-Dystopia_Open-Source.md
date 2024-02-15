@@ -3,8 +3,8 @@ layout: post
 title: "Critical Systems Must Be Open Source - How to Not Live in a Cyberpunk Dystopia #02"
 date: 2024-01-24 16:00:00 -0700
 tags: politics right-to-repair cyberpunk
-category: drafts
-category: Cyberpunk Dystopia
+category: drafts # Change this before publication
+#category: Cyberpunk Dystopia
 hidden: true
 --- 
 This is the 
@@ -47,12 +47,49 @@ to patch serious security vulnerabilities. Because Windows XP is no longer suppo
 there are tons of unpatched vulnerabilities that would allow someone to easily gain 
 control of your computer. 
 
+Another major consequence of abandonware is losing compatibility with current equipment. 
+As new hardware and software comes out, existing things must be updated to work 
+with the new stuff. This happens on both the hardware and software level, but is
+usually worse on the software level. For example, 
+older devices that only have dated interfaces like FireWire or a serial port would 
+be difficult to connect to a modern device that only has USB. It could be done, 
+but would require an adapter that few places carry. If your device requires use
+of proprietary software, but the software is only compatible with an older OS like 
+Windows XP, then you're likely out of luck. Unless you have an old machine running XP or someone
+has reverse engineered the software and built a new version that runs on your computer, 
+you have no way to use that device anymore. Reverse engineering is extremely time 
+intensive. In many cases, the EULA (End User License Agreement) or Terms of Service 
+will outlaw reverse engineering, so even if it's viable, it's not legal. 
+
+It's quite easy to see where this leads if these devices are controlling critical infrastructure. 
+If a piece of an old system dies, replacements are no longer available, and new 
+equipment isn't compatible, then you have to rip out the whole system and replace
+it at great expense. This will either lead to the intentional shutdown of critical 
+systems while they are painstakingly rebuilt, or a dangerous condition where they 
+are inoperable but users are not informed. The damage is multiplied if the system
+maintainer in question is a municipal government or similar body that provides great 
+benefit to citizens but operates on extremely thin margins. 
+
+Companies love the idea of forcing maintainers to prematurely purchase new systems, 
+because it means you have to give them more money. 
+Understandably, people who like their systems to work hate this. Corporations
+have previously not done this often, because breaking compatibility in a way that's 
+expensive for their customers generates bad PR. However, recent conglomeration
+of companies due to weak antitrust enforcement means that their customers often 
+have nowhere else to turn, so those companies are free to screw their customers
+as hard as they want.[^2]
+
+Requiring critical systems to be open source means that if those systems are abandoned, 
+the community of people that use them can step in to maintain them, preventing otherwise
+inevitable disruption of important infrastructure. 
 
 
+### Assisting Security Research 
 
-Footnotes: 
+## Footnotes
 
 [^1]: [https://en.wikipedia.org/wiki/GNU_Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto)
+[^2]: This statement applies primarily to the United States, which has fallen behind in antitrust enforcement and consumer protection laws since the Reagan administration.
 
 
 
