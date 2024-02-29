@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Critical Systems Must Be Open Source - How to Not Live in a Cyberpunk Dystopia #02"
+title: "Critical Systems Must Be Open Source - How to Not Live in a Cyberpunk Dystopia #01"
 date: 2024-01-24 16:00:00 -0700
 tags: politics right-to-repair cyberpunk
 category: drafts # Change this before publication
 #category: Cyberpunk Dystopia
 hidden: true
 --- 
-This is the 
-NTH <!-- Edit this AND THE TITLE before posting -->
-post in a series about what we can do to make real life less 
+This is post #01 <!-- Edit this AND THE TITLE before posting -->
+in a series about what we can do to make real life less 
 of a cyberpunk dystopia. The first post is 
 [here.](https://sudo-nano.github.io/posts/Cyberpunk-Dystopia-00/) 
 This post is targeted towards a general audience. No prior knowledge is required. 
@@ -33,9 +32,9 @@ preventing delivery of those necessities.
 
 ## Why Open Source? 
 
-Closed source, or proprietary devices, have several problems.
-1. They're nearly impossible to maintain if abandoned by the original developers
-2. Security research is severely hampered
+Closed source, or proprietary devices, have several problems:
+1. They're nearly impossible to maintain if abandoned by the original developers.
+2. Security research is severely hampered.
 3. Accountability auditing, i.e. checking that the devices work how the manufacturer
 says they do, is much harder. 
 
@@ -45,21 +44,27 @@ manufacturer. For example, Windows XP's extended support by Microsoft was ended
 on April 8, 2014. It no longer receives updates, with only a few rare exceptions 
 to patch serious security vulnerabilities. Because Windows XP is no longer supported, 
 there are tons of unpatched vulnerabilities that would allow someone to easily gain 
-control of your computer. 
+control of your computer, so it's now unsafe to connect Windows XP computers to 
+the internet.
 
 Another major consequence of abandonware is losing compatibility with current equipment. 
-As new hardware and software comes out, existing things must be updated to work 
-with the new stuff. This happens on both the hardware and software level, but is
-usually worse on the software level. For example, 
-older devices that only have dated interfaces like FireWire or a serial port would 
+As new hardware and software comes out, existing things must be updated to include 
+support for the new stuff. This happens on both the hardware and software level, 
+but is usually worse on the software level. For example, 
+older devices that only have dated interfaces like [FireWire](https://en.wikipedia.org/wiki/IEEE_1394)
+or a [serial port](https://en.wikipedia.org/wiki/Serial_port) would 
 be difficult to connect to a modern device that only has USB. It could be done, 
-but would require an adapter that few places carry. If your device requires use
+but would require an adapter that few places carry. These adapters are only available
+because USB, most common serial interfaces, and FireWire are open standards: Their
+specifications are publicly available for free, so anyone can design a compatible device. 
+
+If your device requires use
 of proprietary software, but the software is only compatible with an older OS like 
 Windows XP, then you're likely out of luck. Unless you have an old machine running XP or someone
 has reverse engineered the software and built a new version that runs on your computer, 
 you have no way to use that device anymore. Reverse engineering is extremely time 
-intensive. In many cases, the EULA (End User License Agreement) or Terms of Service 
-will outlaw reverse engineering, so even if it's viable, it's not legal. 
+intensive and highly skilled work. In many cases, the EULA (End User License Agreement) 
+or Terms of Service will outlaw reverse engineering, so even if it's viable, it's not legal. 
 
 It's quite easy to see where this leads if these devices are controlling critical infrastructure. 
 If a piece of an old system dies, replacements are no longer available, and new 
@@ -85,6 +90,13 @@ inevitable disruption of important infrastructure.
 
 
 ### Assisting Security Research 
+Outline: 
+- Everyone benefits from security research 
+- Security research functions best as a preventative measure 
+- Touch on current state of security research 
+- Closed source means that security researchers can only do "black box" analysis
+- "white box" analysis is more productive 
+- Open source exposes weak "security by obscurity"
 
 ## Footnotes
 
