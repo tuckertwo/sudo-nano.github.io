@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Btw I Use Arch"
-date: 2024-03-27 16:16:00 -0700
-tags: linux software opinion
-categories: drafts
-hidden: true
+date: 2024-03-27 19:35:00 -0700
+tags: linux software opinion apt yay
+category: My Software Stack
+hidden: false
 --- 
 This post is intended for an audience that is familiar with the basic differences 
 between various Linux distributions, such as stable release vs rolling release. 
@@ -13,7 +13,7 @@ will not be explained but is highly google-able.
 
 ## Stable-Release Distro Problems
 Just this week, I replaced my desktop computer's diseased frankenstein installation 
-of Linux Mint 21.1 with EndeavourOS, an arch-based distribution. 
+of Linux Mint 21.1[^1] with EndeavourOS, an arch-based distribution. 
 Having used only Debian-based Linux distributions 
 for all of my 7 years using Linux in some capacity, I have become familiar with 
 their benefits and their shortcomings. The deal-breaker for me is the inflexibility 
@@ -27,7 +27,7 @@ you have system software that relies on those libraries being a specific version
 you risk breaking them and thus your OS. I've done this several times by making 
 the foolish mistake of trying to upgrade my system C libraries manually. 
 
-Quoth Tumblr user clitfisto on the infamous [battery acid spaghetti post](https://www.tumblr.com/babblingbranches/669570171962327040), "dont' do this." 
+Quoth Tumblr user clitfisto on the infamous [battery acid spaghetti post](https://www.tumblr.com/babblingbranches/669570171962327040), "don't do this." 
 
 If you're not going to manually upgrade libraries, your only option is to wait months
 for newer versions to be pushed to official Debian repositories. Possibly longer
@@ -37,8 +37,9 @@ effectively says that building from source is the only safe way to install softw
 not included in the official repositories. "Safe", in this case, means unlikely 
 to cause issues (present or future) or incur technical debt. This is because Debian 
 has no way to ensure that 3rd party packages don't conflict with official packages. 
-Arch handles this by letting the `yay` package manager handle both official packages
-(via `pacman`) and unofficial packages (via AUR). 
+Arch avoids the outdated libraries issue by being a rolling release distribution, and
+handles the conflict issue by letting the `yay` package manager handle both official \
+packages (via `pacman`) and unofficial packages (via AUR). 
 
 In short, I have fundamental disagreements with the Debian philosophy on how to 
 use your own operating system. I didn't even know about the "Don't Break Debian" 
@@ -48,7 +49,8 @@ based distributions seemed to accrue technical debt until they collapsed under t
 own weight. It's because I wasn't using Debian the way it's intended.
 
 Above all, I would like to emphasize that this is *not* a "Debian is bad" post. 
-Debian simply has a different use case than what I do with my desktop.
+Debian is just not intended to do what I want to do, which is install 3rd party
+software willy-nilly. 
 
 
 ## EndeavourOS to the Rescue
@@ -62,7 +64,8 @@ installer and sensible defaults.
 
 Several ongoing quality-of-life issues are fixed.
 1. **`apt` has no clean way to handle 3rd party repository keys.** Since `apt-key` is
-deprecated, the recommended method is to manually download them to 
+deprecated, [the recommended method](https://itsfoss.com/apt-key-deprecated/) 
+is to manually download them to 
 `/usr/share/keyring/insert_name.gpg` and then add that location to the appropriate 
 line in your `/etc/apt/sources.list`. It's a hassle, and I think computers should
 be better than this. On Endeavour, `yay` handles 3rd party repository keys with
@@ -89,3 +92,6 @@ Thanks for reading. Send any questions to @themagicalc on Discord. I have a post
 in the works called "Linux for Mere Mortals", which will be a guide to Linux for 
 those who are not technical but are ready to move on from Windows or MacOS. If you
 have things you want to see in this series, send them my way.
+
+## Footnotes
+[^1]: My previous setup was Mint 21.1 with KDE and with Linux kernel 6.1.0 kludged in as an attempted (unsuccessful) fix for the suspend issue before I had figured out the true root cause. 
