@@ -4,7 +4,6 @@ title: "Btw I Use Arch"
 date: 2024-03-27 19:35:00 -0700
 tags: linux software opinion apt yay
 category: My Software Stack
-hidden: false
 --- 
 This post is intended for an audience that is familiar with the basic differences 
 between various Linux distributions, such as stable release vs rolling release. 
