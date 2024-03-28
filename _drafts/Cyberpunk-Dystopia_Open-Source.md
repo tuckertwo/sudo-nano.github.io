@@ -98,6 +98,11 @@ Outline:
 - "white box" analysis is more productive 
 - Open source exposes weak "security by obscurity"
 
+
+### Accountability Auditing 
+Outline: 
+- 
+
 ## Footnotes
 
 [^1]: [https://en.wikipedia.org/wiki/GNU_Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto)
