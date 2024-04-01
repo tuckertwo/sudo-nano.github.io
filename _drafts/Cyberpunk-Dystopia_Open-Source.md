@@ -5,7 +5,7 @@ date: 2024-01-24 16:00:00 -0700
 tags: politics right-to-repair cyberpunk
 category: drafts # Change this before publication
 #category: Cyberpunk Dystopia
-hidden: true
+hidden: true # delete this before publication
 --- 
 This is post #01 <!-- Edit this AND THE TITLE before posting -->
 in a series about what we can do to make real life less 
