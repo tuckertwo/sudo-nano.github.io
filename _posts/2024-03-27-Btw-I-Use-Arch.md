@@ -20,8 +20,8 @@ of stable release distributions and the Debian philosophy.
 
 Over the years, I've regularly run into situations where the latest release of some 
 open source software will not run or possibly even compile, because the latest libraries 
-shipped in the official repositories are ancient. While it's definitely *possible*
-to install libraries newer than the latest ones in the official repositories, if 
+shipped in my distro's official repositories are ancient. While it's definitely *possible*
+to manually install newer libraries, if 
 you have system software that relies on those libraries being a specific version, 
 you risk breaking them and thus your OS. I've done this several times by making 
 the foolish mistake of trying to upgrade my system C libraries manually. 
@@ -30,7 +30,7 @@ Quoth Tumblr user clitfisto on the infamous [battery acid spaghetti post](https:
 
 If you're not going to manually upgrade libraries, your only option is to wait months
 for newer versions to be pushed to official Debian repositories. Possibly longer
-if you're on Debian, Mint, or some other Debian derivative. Worse, the 
+if you're on Ubuntu, Mint, or some other Debian derivative. Worse, the 
 [Debian wiki page on how to not break Debian](https://wiki.debian.org/DontBreakDebian)
 effectively says that building from source is the only safe way to install software 
 not included in the official repositories. "Safe", in this case, means unlikely 
@@ -48,7 +48,7 @@ based distributions seemed to accrue technical debt until they collapsed under t
 own weight. It's because I wasn't using Debian the way it's intended.
 
 Above all, I would like to emphasize that this is *not* a "Debian is bad" post. 
-Debian is just not intended to do what I want to do, which is install 3rd party
+Debian is not intended to safely do what I want, which is install 3rd party
 software willy-nilly. 
 
 
@@ -70,17 +70,21 @@ line in your `/etc/apt/sources.list`. It's a hassle, and I think computers shoul
 be better than this. On Endeavour, `yay` handles 3rd party repository keys with
 no hassle at all. 
 
-2. **I can fix the cursed issue with Gigabyte B550 motherboards.** There's an issue with 
+2. ~~**I can fix the cursed issue with Gigabyte B550 motherboards.** There's an issue with 
 Gigabyte B550 motherboards where the GPP0 bridge will wake the computer up mere 
 seconds after going to sleep, preventing it from sleeping. 
 [The solution to this problem](https://www.reddit.com/r/gigabyte/comments/p5ewjn/b550i_pro_ax_f13_bios_sleep_issue_on_linux/), when implemented on my Mint install, 
 caused a secondary issue where the screen would black out for a second every time
 I moved my mouse. This secondary issue is no longer present on the clean Endeavour
-install. 
+install.~~ 
+Edit 2024-04-14: This issue did actually reoccur, and seems to have been a monitor issue. 
+It was fixed by obtaining a better monitor.
 
 3. My display refresh rate no longer reverts to 60 Hz every time I reboot. 
+This may be a nonissue for people who use 60 Hz monitors, but I enjoy video 
+games and use a 144 Hz monitor. 
 
-So far, there have been no regressions or complaints about Endeavour. Seeing as
+So far, there have been no regressions from my Mint install or complaints about Endeavour. Seeing as
 I've only been using it for a few days, thorough assessment has yet to be done. 
 My initial impression is that it feels like the cute and easy experience that Mint
 tries to be. 
