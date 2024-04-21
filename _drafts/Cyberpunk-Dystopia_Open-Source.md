@@ -99,6 +99,7 @@ and a check against the tightening grip of capitalism.
 
 
 ### Assisting Security Research
+<!--
 Outline:
 - Everyone benefits from security research
 - Security research functions best as a preventative measure
@@ -106,6 +107,7 @@ Outline:
 - Closed source means that security researchers can only do "black box" analysis
 - "white box" analysis is more productive
 - Open source exposes weak "security by obscurity"
+-->
 
 Security research most often involves discovering vulnerabilities in hardware or software,
 informing the manufacturer, and allowing them to patch it before the researcher
@@ -113,19 +115,58 @@ discloses the details to the public.
 Those not familiar with the process may wonder why one would
 *want* researchers to discover and publish vulnerabilities. The reason is that someone
 will discover it eventually, and we would rather have a researcher discover and
-disclose it responsibly before a malicious party can discover and exploit it.
+disclose it responsibly before a malicious party can discover and exploit it. 
+Well-resourced malicious parties, like intelligence services or organized criminal 
+groups, stockpile exploits (usually undisclosed ones) for use against their targets. 
+Between these groups, there's a market for undisclosed (usually referred to as zero-day)
+vulnerabilities. Making it easier for legitimate security researchers to discover 
+exploits, and making it easier for them to publish without fear of legal consequences, 
+will shrink stockpiles of exploits and make discovering exploits for sale less profitable.
 
-Coverage of this issue often paints a dichotomy between the evil "black hat
+Unfortunately, not every company acts responsibly when a researcher
+discloses a vulnerability to them. In 2008, security researchers reverse engineered 
+the MIFARE Classic RFID credential[^4], which was at the time used for London's Oyster 
+public transit cards. This revealed serious vulnerabilities in its cryptographic 
+algorithm, demonstrating attacks that allow attackers to easily recover secret keys 
+from the reader. NXP, the manufacturer of MIFARE Classic credentials, was sent an 
+early copy so that they could patch the vulnerabilities.[^5] Instead of doing so, NXP 
+attempted to sue the university to prevent the researchers from publishing their 
+paper. The courts did not grant their injuction, and the research was published. 
+However, this response shows a concerning prioritization of business interests over 
+security, an attitude that any for-profit corporation has monetary incentive to take.
+
+The flaws in MIFARE Classic's cryptographic algorithm would have been glaringly
+obvious upon mathematical examination. Had NXP open-sourced their algorithm, it might
+not have been so widely adopted because of its weakness. Better yet, their anticipation 
+of the scrutiny might have compelled them to design a more secure algorithm. 
+At the time, MIFARE Classic was so widely used that we are still not rid of it. 
+While there 
+are variants that have been patched to fix the original vulnerabilities, original 
+and completely exploitable versions are still circulating widely in the wild. 
+
+Coverage of this sort of issue often paints a dichotomy between the evil "black hat
 hacker" and the virtuous "white hat hacker". As with most dichotomies, reality
-is more complicated. Unfortunately, not every company acts responsibly when a researcher
-discloses a vulnerability to them. 
+is more complicated. Some paint the image that white hat hackers stay entirely within
+the law, but this is becoming much more difficult as companies employ aggressive 
+intellectual protection laws and End User License Agreements (EULAs) that make established 
+research practices illegal. Any law that bans reverse-engineering is guilty of this, 
+but the most egregious is the Digital Millenium Copyright Act (DMCA).[^6] It bans 
+reverse engineering and bypassing of Digital Rights Management (DRM) software and
+other software used to encrypt copyrighted media. Because of this, security research 
+on proprietary software carries greater legal risks than ever, something mitigated by
+making software open source. 
 
 ### Accountability Auditing
+<!--
 Outline:
--
+- Auditing claims caused by 
+-->
 
 ## Footnotes
 
 [^1]: [https://en.wikipedia.org/wiki/GNU_Manifesto](https://en.wikipedia.org/wiki/GNU_Manifesto)
 [^2]: Regardless of whether the lawsuits actually have merit, having to fend them off can completely exhaust the money and resources of an individual or small group. This is especially true when the plaintiff (person filing the lawsuit) has lots of money, like Apple. For more on this, read about [SLAPP lawsuits.](https://en.wikipedia.org/wiki/Strategic_lawsuit_against_public_participation)
 [^3]: This statement applies primarily to the United States, which has fallen behind in antitrust enforcement and consumer protection laws since the Reagan administration.
+[^4]: [Garcia et al., “Dismantling MIFARE Classic.”](https://www.sos.cs.ru.nl/applications/rfid/2008-esorics.pdf)
+[^5]: [https://www.secureidnews.com/news-item/nohl-nxp-making-terrible-decision/#](https://www.secureidnews.com/news-item/nohl-nxp-making-terrible-decision/#)
+[^6]: In-depth coverage of the DMCA is a complicated topic and deserving of its own article. It is the opinion of this blog that the DMCA allows for overly-aggressive policing of intellectual property in a way that is detrimental to the general public, however it does provide the essential function of protecting website hosters from liability for their users uploading copyrighted content.
