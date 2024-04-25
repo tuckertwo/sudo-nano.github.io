@@ -19,7 +19,10 @@ about exactly how far I can and can't trust my brain.
 {% include embed/youtube.html id='XUZ9VATeF_4' %}
 
 ## My Implementation of Tris's Methods 
-### Declare bankruptcy on your memory
+I don't have commentary on every one of the sections in the video, so some have been 
+omitted or merged with other sections.
+
+### Declare bankruptcy on your memory / Use a note taking system
 
 Quoth Tris: 
 > Your brain is for *having ideas*, not storing ideas. 
@@ -72,10 +75,27 @@ your available time between events. However, I hesitate to recommend it for a fe
 3. **The desktop and mobile apps are electron apps.** For those who aren't programmers, Electron.JS is a framework for creating "web apps" that basically package your website into an application format. An electron app runs an instance of chrome with the website, which is much more resource intensive than programming a regular app. Developers choose it because they can just package the existing website instead of having to program new software.
 
 
-### Getting Things Done 
-
-
 ### Carry Earplugs 
+Like Tris, I experience sensory overload, and thus carry earplugs on my keychain. 
+If you have over-hear headphones, or earbuds with sufficient passive or active
+noise cancelling, those work too. Some think it's disrespectful to carry on 
+a conversation while wearing earbuds, and I don't like the feeling of active
+noise cancelling, so I have a pair of discreet dedicated earplugs.
+
+The last reason I carry earplugs is for hearing protection. This is something I 
+feel the layperson doesn't receive enough education about. As a percussionist, 
+I wasn't told to wear hearing protection until I had been playing for 6 years. 
+Now I have mild hearing damage and tinnitus. If you're a percussionist, go to
+loud concerts, or routinely go anywhere loud enough that you must shout to be
+heard, you need hearing protection. 
+
+I recommend "high fidelity" earplugs for musicians. They're designed to evenly 
+reduce volume across the entire range of audible frequencies. (Uneven reduction
+is what makes things sound muddy when you use typical foam earplugs.) A pair of
+these costs about $14-20, comes with a case you can put on your keychain, and 
+lasts years. [These Etymotic Research earplugs](https://www.sweetwater.com/store/detail/EarPlugProS--etymotic-research-ety-plugs-high-fidelity-earplugs-standard-fit)
+cost $14, and are the same as the $18 Vic Firth percussion earplugs I own but 
+without the brand tax. 
 
 ### In the face of ambiguity, refuse the temptation to guess
 
