@@ -38,7 +38,7 @@ a big fan of [Logseq](https://github.com/logseq/logseq). It's an open source pro
 that uses Markdown (or Org-mode, if you prefer) to thoroughly manage and organize notes
 divided into blocks (basically bullet points). Most importantly, it supports linking 
 between pages of your notes, and lets you tag blocks so that it's easier to find them 
-later. Obsidian is a popular alternative, though it's closed source.
+later. Obsidian is a popular and more mature alternative, though it's closed source.
 
 ### Carry a notebook
 For paper notebooks, dot grid notebooks are fantastic. They provide the ruled function
@@ -49,9 +49,14 @@ a fountain pen for the interesting inks, so Rhodia is my paper brand
 of choice. Their paper is reasonably priced and doesn't bleed or feather noticeably, 
 and that's all I need.
 
-Cortex makes [a nice notebook that costs too much](https://cottonbureau.com/p/TZ4WZJ/journal/the-theme-system-journal#/6880807/grey-paper-standard-journal), 
-so I just take their circle-with-slash method of making itemized lists and draw 
-it into my dot grid notebooks.
+Cortex makes [a nice notebook that costs too much](https://cottonbureau.com/p/TZ4WZJ/journal/the-theme-system-journal#/6880807/grey-paper-standard-journal).
+Their style of drawing itemized lists, where the bullet point is a large circle with
+a slash through it, is extremely helpful for visualizing task completion. Its key
+innovation is the ability to shade half the circle to mark partial completion. 
+Typical checkbox lists have no way of representing partial completion, so a list 
+where every task is half done is visually indistinguishable from a list where no
+tasks have been started. The ability to visualize partial progress is extremely 
+important for maintaining morale, so I draw it into my own notebooks by hand.
 
 ### Calendars are great 
 > If it can be done before the due date, it's a task.
@@ -70,7 +75,7 @@ that provides it.
 
 Motion has some really cool features, such as automatically scheduling tasks into 
 your available time between events. However, I hesitate to recommend it for a few reasons: 
-1. **It costs too much.** It's $30/mo billed monthly, or $19/mo billed annually. However, If you call and ask, there's a secret student discount that cuts the price in half, bringing it to a more reasonable $9.5/mo if you pay by the year.
+1. **It costs too much.** It's $30 per month. If you prepay for a year, you can cut it down to $19 per month. If you call and ask, there's a secret student discount that cuts the price in half, bringing it to a more reasonable $9.5/mo if you pay by the year.
 2. **Customer support is garbage.** The "dedicated support" they advertise is an AI chatbot. The chatbot is useless and only regurgitates help pages. Dealing with that piece of junk is mandatory (albeit brief) if you want to message a real person. They also don't have a help phone number, and will not give you one.
 3. **The desktop and mobile apps are electron apps.** For those who aren't programmers, Electron.JS is a framework for creating "web apps" that basically package your website into an application format. An electron app runs an instance of chrome with the website, which is much more resource intensive than programming a regular app. Developers choose it because they can just package the existing website instead of having to program new software.
 
@@ -79,13 +84,14 @@ your available time between events. However, I hesitate to recommend it for a fe
 Like Tris, I experience sensory overload, and thus carry earplugs on my keychain. 
 If you have over-hear headphones, or earbuds with sufficient passive or active
 noise cancelling, those work too. Some think it's disrespectful to carry on 
-a conversation while wearing earbuds, and I don't like the feeling of active
-noise cancelling, so I have a pair of discreet dedicated earplugs.
+a conversation while wearing earbuds or over-ear headphones. Additionally, 
+I don't like the feeling of active
+noise cancelling. To solve these problems, I have a pair of discreet dedicated earplugs.
 
 The last reason I carry earplugs is for hearing protection. This is something I 
 feel the layperson doesn't receive enough education about. As a percussionist, 
 I wasn't told to wear hearing protection until I had been playing for 6 years. 
-Now I have mild hearing damage and tinnitus. If you're a percussionist, go to
+Now, I have mild hearing damage and tinnitus. If you're a percussionist, go to
 loud concerts, or routinely go anywhere loud enough that you must shout to be
 heard, you need hearing protection. 
 
@@ -98,7 +104,7 @@ cost $14, and are the same as the $18 Vic Firth percussion earplugs I own but
 without the brand tax. 
 
 ### In the face of ambiguity, refuse the temptation to guess
-
+<!-- Discuss methods from Never Split The Difference -->
 
 ## Lessons Learned 
 ### "Should" is fake, do what you can.
@@ -114,10 +120,15 @@ Give yourself some grace, and plan for what you *can* do, not what you "should" 
 - If something takes you more time, plan for the time you need, not the shorter duration you hope it'll take.
 
 For years, I thought the Pomodoro method (work for about 25 minutes, take a 5 minute break, repeat) 
-didn't work for me. Everyone said to do 20, 25, or 30 minutes. I can't concentrate 
-that long, so realistically I have to do 15 minutes. 
+didn't work for me. Everyone said to do work periods of 20, 25, or 30 minutes. My ADHD is pretty bad. 
+I can't concentrate that long, so realistically I have to do 15 minutes. 
 
-### Understand why things work
+### Understand why things work or don't work
+Figuring out whether a single method for you is putting a single
+brick in the house of coping mechanisms. If you pay attention to *why* things 
+do or don't work, you can rule out or further investigate entire categories, 
+and build that house one *wall* at a time instead.
+
 
 
 Read important things deeply. <- EXTREMELY IMPORTANT
