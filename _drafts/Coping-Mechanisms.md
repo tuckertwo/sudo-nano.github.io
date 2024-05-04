@@ -20,11 +20,11 @@ about exactly how far I can and can't trust my brain.
 
 ## My Implementation of Tris's Methods 
 I don't have commentary on every one of the sections in the video, so some have been 
-omitted or merged with other sections.
+omitted or merged with other sections. The recommended experience for this post is 
+watching the video first, then reading the post as you go through the video again.
 
 ### Declare bankruptcy on your memory / Use a note taking system
 
-Quoth Tris: 
 > Your brain is for *having ideas*, not storing ideas. 
 
 I have ADHD. ADHD and many other varieties of neurodivergence make your memory 
@@ -88,8 +88,8 @@ a conversation while wearing earbuds or over-ear headphones. Additionally,
 I don't like the feeling of active
 noise cancelling. To solve these problems, I have a pair of discreet dedicated earplugs.
 
-The last reason I carry earplugs is for hearing protection. This is something I 
-feel the layperson doesn't receive enough education about. As a percussionist, 
+The last reason I carry earplugs is for hearing protection. This is something
+the layperson doesn't receive enough education about. As a percussionist, 
 I wasn't told to wear hearing protection until I had been playing for 6 years. 
 Now, I have mild hearing damage and tinnitus. If you're a percussionist, go to
 loud concerts, or routinely go anywhere loud enough that you must shout to be
@@ -105,6 +105,24 @@ without the brand tax.
 
 ### In the face of ambiguity, refuse the temptation to guess
 <!-- Discuss methods from Never Split The Difference -->
+Bridging the gap between neurodivergent and neurotypical communication styles is
+difficult. Typically the neurodivergent individual has done more 
+introspection about the matter than their counterpart, so the job falls to them.
+It's not fun, and it's not fair, but bridging that gap *is* sometimes necessary. 
+Here, I've lifted a few strategies from Chris Voss's *Never Split The Difference*[^1]
+that you can use to guide your counterpart into communicating what you need to hear.
+
+**Mirroring** is when you repeat the last few words of someone's statement back
+to them, with upward inflection like a question. After you use a mirror, give it some space 
+and allow the other person to say something before you continue speaking. 
+
+Voss uses the following example from his own negotiation with a bank robber: 
+> "The other vehicle's not out there because you guys chased my driver away..." he blurted.
+
+> "We chased your driver away?" I mirrored.
+
+This exchange signals to the other person that you're listening, and almost without fail, it gets people
+to elaborate on their previous statement.
 
 ## Lessons Learned 
 ### "Should" is fake, do what you can.
@@ -133,3 +151,4 @@ and build that house one *wall* at a time instead.
 
 Read important things deeply. <- EXTREMELY IMPORTANT
 ## Footnotes
+[^1]: *Never Split The Difference* is an excellent book primarily focused on negotiation. A large part of negotiation is facilitating the exchange of information so that both parties are aware of the other's capabilities and needs, a widely applicable skill. I am summarizing an already incredibly concise book, so my coverage doesn't do it justice. I highly recommend reading (and rereading) the book.
