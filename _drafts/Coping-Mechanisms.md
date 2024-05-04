@@ -20,8 +20,10 @@ about exactly how far I can and can't trust my brain.
 
 ## My Implementation of Tris's Methods 
 I don't have commentary on every one of the sections in the video, so some have been 
-omitted or merged with other sections. The recommended experience for this post is 
+omitted or merged with other sections. 
+> The recommended experience for this post is 
 watching the video first, then reading the post as you go through the video again.
+{: .prompt-info }
 
 ### Declare bankruptcy on your memory / Use a note taking system
 
@@ -109,7 +111,7 @@ Bridging the gap between neurodivergent and neurotypical communication styles is
 difficult. Typically the neurodivergent individual has done more 
 introspection about the matter than their counterpart, so the job falls to them.
 It's not fun, and it's not fair, but bridging that gap *is* sometimes necessary. 
-Here, I've lifted a few strategies from Chris Voss's *Never Split The Difference*[^1]
+Here, I've lifted two strategies from Chris Voss's *Never Split The Difference*[^1]
 that you can use to guide your counterpart into communicating what you need to hear.
 
 **Mirroring** is when you repeat the last few words of someone's statement back
@@ -121,8 +123,24 @@ Voss uses the following example from his own negotiation with a bank robber:
 
 > "We chased your driver away?" I mirrored.
 
-This exchange signals to the other person that you're listening, and almost without fail, it gets people
-to elaborate on their previous statement.
+This exchange signals to the other person that you're listening, and almost without 
+fail, it gets people to elaborate on their previous statement.
+
+**Labeling** is a technique used to demonstrate empathy and convince your 
+counterpart to listen. When negotiating, many people are incapable of even processing
+what you're saying until they feel their viewpoint is understood. Anecdotally, this 
+occurs more often with neurotypical individuals. 
+
+A label usually starts with something like 
+- It seems like...
+- It sounds like...
+- It looks like...
+Avoid using the word "I", as it signals that you're more interested in yourself than 
+them. As Voss says, keeping "I" out of this makes it a "neutral satement of understanding." 
+
+One of the most useful things you can do with a label is use it to air out negative emotions. 
+Using labels, you can prompt your counterpart to discuss hidden concerns that may have been
+blocking the way. 
 
 ## Lessons Learned 
 ### "Should" is fake, do what you can.
