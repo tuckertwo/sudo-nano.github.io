@@ -152,12 +152,17 @@ trying to be "normal", the sooner you can figure out what works best for you.
 Give yourself some grace, and plan for what you *can* do, not what you "should" do. 
 
 - If you can't remember to do something later, set a reminder. 
-- If something takes you more effort, plan your tasks so that you will be able to put in that effort.
-- If something takes you more time, plan for the time you need, not the shorter duration you hope it'll take.
+- If something takes you more time or effort, plan for the time you need, not the shorter duration you hope it'll take.
+- 
 
 For years, I thought the Pomodoro method (work for about 25 minutes, take a 5 minute break, repeat) 
-didn't work for me. Everyone said to do work periods of 20, 25, or 30 minutes. My ADHD is pretty bad. 
-I can't concentrate that long, so realistically I have to do 15 minutes. 
+didn't work for me. Everyone said to do work periods of 20, 25, or 30 minutes. 
+My ADHD is pretty bad. I can't concentrate that long, so realistically I have to do 15 minutes.
+
+Most importantly, figure out what someone means when they say one "should" do a thing. 
+Ideally, every home cook would use fresh garlic instead of garlic paste or pre-minced
+garlic. If the amount of time needed to mince fresh garlic would have you leave it out 
+instead, use the garlic paste. "Not as good" is better than none. 
 
 ### Understand why things work or don't work
 Figuring out whether a single method for you is putting a single
