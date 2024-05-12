@@ -142,6 +142,9 @@ One of the most useful things you can do with a label is use it to air out negat
 Using labels, you can prompt your counterpart to discuss hidden concerns that may have been
 blocking the way. 
 
+### F O C U S
+
+
 ## Lessons Learned 
 ### "Should" is fake, do what you can.
 If you are disabled, that means you can't do something the statistically average 
