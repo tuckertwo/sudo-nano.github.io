@@ -192,4 +192,4 @@ and build that house one *wall* at a time instead.
 
 
 ## Footnotes
-[^1]: *Never Split The Difference* is an excellent book primarily focused on negotiation. A large part of negotiation is facilitating the exchange of information so that both parties are aware of the other's capabilities and needs, a widely applicable skill. I am summarizing an already incredibly concise book, so my coverage doesn't do it justice. I highly recommend reading (and rereading) the book.
+[^1]: *Never Split The Difference* is an excellent book primarily focused on negotiation. A large part of negotiation is facilitating the exchange of information so that both parties are aware of the other's capabilities and needs, a widely applicable skill. I'm summarizing an already incredibly concise book, so my coverage doesn't do it justice. I highly recommend reading (and rereading) the book.
