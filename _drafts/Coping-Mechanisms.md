@@ -7,6 +7,8 @@ category: drafts
 hidden: true
 --- 
 
+<!-- TO DO: Make 3 editing passes -->
+
 Recently I've become a big fan of the YouTube channel [No Boilerplate](https://youtu.be/XUZ9VATeF_4)
 run by Tris Oaten.
 This is likely because we have similar flavors of Spicy Brain (neurodivergence) and
@@ -143,7 +145,23 @@ Using labels, you can prompt your counterpart to discuss hidden concerns that ma
 blocking the way. 
 
 ### F O C U S
+There's too much information for any one person to consume, even on a single narrow
+topic. Thus, for intentional learning and self-improvement, it's important
+to judiciously select what information you want to consume, and more importantly,
+what *not* to consume. Don't just read the headline of an article and take it at
+face value. Either read it fully, or don't read it at all.
+Pick a time and place where you'll take your time absorbing that information.
+At minimum, it 
+helps to maintain a list of the things you want to read, so that you can sit down
+and read them deeply when you have the time. 
 
+Going to greater lengths, you can use software to help you manage your reading list. 
+You can index your links by topic, urgency, and more. If there are specific sites
+you like, you can subscribe to their RSS feed. An RSS feed will inform you of each
+new item published to the site. You can use an RSS reader (such as the one built
+into Mozilla Thunderbird) to manage your RSS feeds. They let you tag and sort articles 
+for easier retrieval later. I like to record key information in Logseq and tag it 
+there.
 
 ## Lessons Learned 
 ### "Should" is fake, do what you can.
@@ -156,7 +174,6 @@ Give yourself some grace, and plan for what you *can* do, not what you "should" 
 
 - If you can't remember to do something later, set a reminder. 
 - If something takes you more time or effort, plan for the time you need, not the shorter duration you hope it'll take.
-- 
 
 For years, I thought the Pomodoro method (work for about 25 minutes, take a 5 minute break, repeat) 
 didn't work for me. Everyone said to do work periods of 20, 25, or 30 minutes. 
@@ -168,13 +185,11 @@ garlic. If the amount of time needed to mince fresh garlic would have you leave 
 instead, use the garlic paste. "Not as good" is better than none. 
 
 ### Understand why things work or don't work
-Figuring out whether a single method for you is putting a single
+Figuring out whether a single method works for you is putting a single
 brick in the house of coping mechanisms. If you pay attention to *why* things 
 do or don't work, you can rule out or further investigate entire categories, 
 and build that house one *wall* at a time instead.
 
 
-
-Read important things deeply. <- EXTREMELY IMPORTANT
 ## Footnotes
 [^1]: *Never Split The Difference* is an excellent book primarily focused on negotiation. A large part of negotiation is facilitating the exchange of information so that both parties are aware of the other's capabilities and needs, a widely applicable skill. I am summarizing an already incredibly concise book, so my coverage doesn't do it justice. I highly recommend reading (and rereading) the book.
