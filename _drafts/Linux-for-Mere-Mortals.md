@@ -33,6 +33,10 @@ these have boxes you have to uncheck to prevent the installer from installing ad
 garbage. On a package manager like `apt`, you might just run the command 
 `apt install program`, then it installs. Easy as that, no additional garbage. 
 
+### Control over your computer
+<!-- TODO: Research permission levels on linux -->
+<!-- Use example: Candy crush installed with system privileges on Windows -->
+
 
 ## Addendum: Linux has an attitude problem 
 I won't hesitate to acknowledge that the Linux community (and to be honest, computer science in general)
